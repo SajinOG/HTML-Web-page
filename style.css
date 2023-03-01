@@ -1,64 +1,89 @@
-            body{
-                background-color: aqua;
-                padding-top: 30px;
-                padding: 30px 30px 20px 15px;
-                text-align: justify;
-            }
+                    body{
+                        background-color: aqua;
+                        padding-top: 30px;
+                        padding: 30px 30px 20px 15px;
+                        text-align: justify;
+                    }
 
-        nav {
-        background-color: rgb(206, 13, 110);
-        width: 100%;
-        overflow: auto;
-        display: inline;
-        }
+                    nav {
+                        background-color: rgb(206, 13, 110);
+                        width: 100%;
+                        overflow: auto;
+                        display: inline;
+                        }
 
-        nav a {
-            float: left;
-            color: white;
-            padding: 10px;
-            font-size: 15px;
-            width: 17%;
-            text-align: center;
-            background-color: darkblue;
-            text-decoration: none;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-        }
+                nav a {
+                    float: left;
+                    color: white;
+                    padding: 10px;
+                    font-size: 15px;
+                    width: 17%;
+                    text-align: center;
+                    background-color: darkblue;
+                    text-decoration: none;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                }
 
-        nav a:hover {
-            background-color: greenyellow;
+                nav a:hover {
+                    background-color: greenyellow;
 
-        }
+                }
 
-        img.new {
+                img.new {
 
-            width: 20px;
-            border-radius: 50px;
-        }
+                    width: 20px;
+                    border-radius: 50px;
+                }
 
-        img {
-            width: 80px;
-            border-radius: 30px;
+                img {
+                    width: 80px;
+                    border-radius: 30px;
 
-        }
+                }
 
-        table, th, td {
-            border: 1px solid black;
-            height: auto;
-        }
+                table, th, td {
+                    border: 1px solid black;
+                    height: auto;
+                }
 
-        .three {
-            display: flex;
-            margin: 20px;
-            padding: 20px;
-            border-spacing: 10px;
-            box-sizing: border-box;
-            width: 600px;
-        }
+                .three {
+                    display: flex;
+                    margin: 50px 50px 50px 50px;
+                    padding: 30px;
+                    border-spacing: 100px;
+                    text-align: center;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    background-color: grey;
+                    font-size: 10;
+                }
 
-        
+                button:hover {
 
-        
-        
+                background-color: greenyellow;
+                }
+
+                .flex {
+                    justify-content: space-around;
+                    border: 2px;
+                    margin: 4px;
+                    padding: 12px;   
+                }
+
+                iframe {
+                    margin: 50px;
+                }
+
+                .lin p {
+                    display: inline;
+                }
+
+                
+            
+
+                
+
+                
+                
 
 
 
